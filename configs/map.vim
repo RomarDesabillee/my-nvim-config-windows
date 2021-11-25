@@ -28,8 +28,8 @@ nnoremap <C-Q> :wq!<CR>
 nnoremap <C-A> ggVGy
 
 "Resize Split Window
-nnoremap <Space>v :vertical resize +5<CR>
-nnoremap <Space>h :vertical resize -5<CR>
+nnoremap <Space>= :vertical resize +5<CR>
+nnoremap <Space>- :vertical resize -5<CR>
 nnoremap <Space>c :%s/class/className/g<CR>
 
 "save
