@@ -6,7 +6,7 @@
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 ## Instruction
 - Set Font in Windows Terminal to NerdFont
-- Copy or Clone to C:\Users\\<Username>\AppData\Local\nvim
+- Copy or Clone to C:\Users\<Username>\AppData\Local\nvim
 - Open Neovim
 - then PlugInstall
 
