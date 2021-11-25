@@ -18,6 +18,9 @@ noremap gD :lua vim.lsp.buf.declaration()<CR>
 noremap gr :lua vim.lsp.buf.references()<CR>
 noremap <space>q :lua vim.lsp.diagnostic.set_loclist()<CR>
 
+"Fugitive
+noremap gs :Git status<CR>
+
 
 " Alternate way to save
 nnoremap <C-s> :w<CR>

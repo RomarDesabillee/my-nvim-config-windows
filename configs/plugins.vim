@@ -33,7 +33,7 @@ Plug 'nvim-telescope/telescope.nvim'
 "React Snippet
 Plug 'epilande/vim-react-snippets'
 
-" "testing
+"testing
 " Plug 'glepnir/dashboard-nvim'
 Plug 'Pocco81/AutoSave.nvim'
 Plug 'tpope/vim-fugitive'
