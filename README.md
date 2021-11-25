@@ -9,6 +9,7 @@
 - Copy or Clone to C:\Users\<Username>\AppData\Local\nvim
 - Open Neovim
 - then PlugInstall
+-
 
 ![ScreenShot](img.PNG)
 
