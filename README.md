@@ -1,4 +1,4 @@
-# My Neovim Config On Windows
+# My Neovim config on Windows
 
 ## Prerequisite
 - [Neovim](https://neovim.io)
