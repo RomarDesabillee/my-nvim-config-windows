@@ -2,7 +2,7 @@
 
 ## Prerequisite
 - [Neovim](https://neovim.io)
-- NerdFont [Download and Install](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete)
+- [NerdFont](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete)
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 ## Instructions
 - Set Font in Windows Terminal to NerdFont
