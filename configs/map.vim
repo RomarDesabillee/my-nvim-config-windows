@@ -32,6 +32,7 @@ nnoremap <C-A> ggVGy
 
 "Resize Split Window
 nnoremap <Space>= :vertical resize +5<CR>
+nnoremap <Space>h :vertical resize +100<CR>
 nnoremap <Space>- :vertical resize -5<CR>
 nnoremap <Space>c :%s/class/className/g<CR>
 

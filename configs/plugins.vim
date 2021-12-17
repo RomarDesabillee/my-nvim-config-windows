@@ -20,6 +20,7 @@ Plug 'akinsho/bufferline.nvim' "BufferLine
 Plug 'kyazdani42/nvim-web-devicons' "For file icons
 Plug 'kyazdani42/nvim-tree.lua'
 
+Plug 'vim-scripts/AutoComplPop'
 
 Plug 'jiangmiao/auto-pairs' "AutoPairs
 Plug 'mattn/emmet-vim' "Emmet
@@ -38,6 +39,7 @@ Plug 'epilande/vim-react-snippets'
 Plug 'Pocco81/AutoSave.nvim'
 Plug 'tpope/vim-fugitive'
 call plug#end()
+
 let g:lsp_cxx_hl_use_text_props = 1
 
 let g:user_emmet_leader_key=','
