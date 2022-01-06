@@ -12,4 +12,7 @@
 - Ignore errors
 - then PlugInstall
 
+Lsp Server
+- https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
+- npm install -g typescript typescript-language-server
 
