@@ -8,6 +8,7 @@
 - Set Font in Windows Terminal to NerdFont
 - Copy or Clone to C:\Users\<Username>\AppData\Local\nvim
 - Open Neovim
+- Ignore errors
 - then PlugInstall
 
 
